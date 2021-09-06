@@ -1,0 +1,8 @@
+POSITION  :   THE NAME OF SWEET      :      Weight, kg     :   SUGAR CONTENT IN GRAMS  : COST PER KILOGRAM IN EUROS :
+   1      :   Mars                   :          1          :            2              :               2            :
+   2      :   Snickers               :          1          :            4              :               3            :
+   3      :   Nestle                 :          1          :            1.4            :               3.2          :
+   4      :   Milko                  :          1          :            1.8            :               1.7          :
+   5      :   Alionka                :          1          :            2.3            :               2.5          :
+   6      :   Roshen                 :          1          :            2.8            :               3.5          :
+   7      :   Zefir                  :          1          :            1.1            :               2.5          :
